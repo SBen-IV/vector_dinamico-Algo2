@@ -1,1 +1,1 @@
-# vector_dinamico-Algo2
+# Vector dinamico - Algoritmos y Programación II
